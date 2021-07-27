@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Klen-Web-v1",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

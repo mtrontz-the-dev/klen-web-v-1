@@ -1,0 +1,8 @@
+{
+  "name": "Klen-Web-v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fd7cce16"
+}
